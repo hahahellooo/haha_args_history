@@ -1,4 +1,5 @@
 import argparse
+from haha_args_history.db.utils import count, top
 
 def hello_msg():
     return "hello"
