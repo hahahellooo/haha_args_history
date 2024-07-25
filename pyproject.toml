@@ -19,3 +19,8 @@ test = [
     "pytest>=8.3.1",
     "pytest-cov>=5.0.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/hahahellooo/haha_args_history"
+issues = "https://github.com/hahahellooo/haha_args_history/issues"
+
