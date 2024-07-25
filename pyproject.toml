@@ -26,6 +26,7 @@ pythonpath = ['.' , 'src']
 test = "pytest"
 ctest  = "pytest --cov"
 stest = "pytest -s"
+giti = "pip install git+https://github.com/hahahellooo/haha_args_history.git@0.2.0/args"
 
 [project.scripts]
 my-history = 'haha_args_history.cli:cmd'

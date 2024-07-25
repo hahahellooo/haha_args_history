@@ -49,10 +49,10 @@ $ pdm add -dG test pytest pytest-cov
 ### deploy
 ```bash
 # dev branch
-pip install git+https://github.com/hahahellooo/haha_args_history.git/haha_args_history.git@0.2.0/args
+pip install git+https://github.com/hahahellooo/haha_args_history.git@0.2.0/args
 
 # main branch
-pip install git+https://github.com/hahahellooo/haha_args_history.git/haha_args_history.git@main
+pip install git+https://github.com/hahahellooo/haha_args_history.git@main
 ```
 
 ### Ref
