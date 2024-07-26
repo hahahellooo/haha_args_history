@@ -1,4 +1,4 @@
-from haha_args_history.cli import hello_msg # ,hi_msg
+from haha_args_history.cli import hello_msg #hi_msg
 #import haha_args_history.cli as cli
 
 def test_hello():
